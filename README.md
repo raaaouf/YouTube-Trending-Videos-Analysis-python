@@ -14,9 +14,8 @@ Here we will use Python 🐍 with some packages like Pandas and Matplotlib to an
 
   <img alt="Made by raaaouf " src="https://img.shields.io/badge/made%20by-raaaouf-%237159c1">  
   
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/raaaouf/YouTube-Trending-Videos-Analysis-python?color=%237159c1&label=size&logo=size">  
   
-  <img alt="Open Source Love svg2" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
+  <img alt="Open Source Love svg2" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103?color=%237159c1">
   
 
   <img alt="Top Language" src="https://img.shields.io/github/languages/top/raaaouf/YouTube-Trending-Videos-Analysis-python?color=%237159c1">

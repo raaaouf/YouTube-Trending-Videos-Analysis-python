@@ -1,7 +1,6 @@
-# YouTube Trending Videos Analysis using python 📈🐍
-
 ![Youtube Logo](https://servicesdirectory.withyoutube.com/static/images/logo.svg)
 
+# YouTube Trending Videos Analysis using python 📈🐍
 
 Here we will use Python 🐍 with some packages like Pandas and Matplotlib to analyze 📈 a dataset that was collected over 205 days. For each of those days, the dataset contains data about the trending videos of that day. It contains data about more than 37,000 trending videos. We will analyze this data to get insights into YouTube trending videos, to see what is common between these videos. Those insights might also be used by people who want to increase popularity of their videos on YouTube.
 
